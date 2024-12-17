@@ -1,0 +1,10 @@
+neo4j==5.14.0          # Neo4j Python Driver for connecting to Neo4j
+pandas==2.0.3          # For data manipulation and analysis
+numpy==1.25.2          # Numerical operations and arrays
+flask==3.0.0           # Web framework for creating APIs or front-end integration
+jinja2==3.1.2          # Template engine for Flask
+python-dotenv==1.0.0   # To manage environment variables
+openai==1.2.3          # OpenAI API for LLM integration
+networkx==3.1          # Graph algorithms for optional pre-processing
+matplotlib==3.7.2      # For data visualization
+gunicorn==21.2.0       # For deploying Flask apps to production
